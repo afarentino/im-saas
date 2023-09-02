@@ -1,4 +1,4 @@
-im-saas
+Keycloak-custom
 ===============
 
 This project creates a custom [Keycloak] server based on [Keycloak.X]. It is structured as a multi-module Maven build and contains the following top-level modules:
