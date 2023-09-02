@@ -1,4 +1,4 @@
-Keycloak-Custom
+im-saas
 ===============
 
 This project creates a custom [Keycloak] server based on [Keycloak.X]. It is structured as a multi-module Maven build and contains the following top-level modules:
@@ -10,7 +10,7 @@ This project creates a custom [Keycloak] server based on [Keycloak.X]. It is str
 - `server`: provides a Keycloak installation for local development & testing
 - `themes`: provides samples for custom themes
 
-Please see the tutorial [building a custom Keycloak container image](https://keycloak.ch/keycloak-tutorials/tutorial-custom-keycloak/) for the details of this project.
+It started as a template from the Keycloak-custom repository and is used to generate a custom Docker container useful for my own projects.  Please see the tutorial [building a custom Keycloak container image](https://keycloak.ch/keycloak-tutorials/tutorial-custom-keycloak/) for the details of this project.
 
 [Keycloak]: https://keycloak.org
 [Keycloak.X]: https://www.keycloak.org/migration/migrating-to-quarkus
